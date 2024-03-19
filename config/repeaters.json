@@ -1,0 +1,3872 @@
+[
+  {
+    "name": "OE1XFW",
+    "lat": 48.16199875,
+    "lon": 16.38899994,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": "Link R70"
+  },
+  {
+    "name": "OE1XDS",
+    "lat": 48.22919846,
+    "lon": 16.375,
+    "freq": 438525000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2021-07-16",
+    "comment": ""
+  },
+  {
+    "name": "OE1XFW",
+    "lat": 48.16199875,
+    "lon": 16.38899994,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-12-03",
+    "comment": "Link R1"
+  },
+  {
+    "name": "OE1XQU",
+    "lat": 48.16999817,
+    "lon": 16.35000038,
+    "freq": 438825000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2020-04-30",
+    "comment": ""
+  },
+  {
+    "name": "OE1XUU",
+    "lat": 48.27080154,
+    "lon": 16.375,
+    "freq": 438950000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-16",
+    "comment": "Also CTCSS 67 possible"
+  },
+  {
+    "name": "OE1XFU",
+    "lat": 48.22919846,
+    "lon": 16.29170036,
+    "freq": 439000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE1XCA",
+    "lat": 48.16999817,
+    "lon": 16.35000038,
+    "freq": 1298250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-12-05",
+    "comment": ""
+  },
+  {
+    "name": "OE1XDS",
+    "lat": 48.22919846,
+    "lon": 16.375,
+    "freq": 1298650000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XPA",
+    "lat": 48.06079865,
+    "lon": 15.53829956,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-16",
+    "comment": ""
+  },
+  {
+    "name": "OE3XHW",
+    "lat": 47.8125,
+    "lon": 16.04170036,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWW",
+    "lat": 47.52080154,
+    "lon": 16.04170036,
+    "freq": 145762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWW",
+    "lat": 47.52080154,
+    "lon": 16.04170036,
+    "freq": 438575000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWJ",
+    "lat": 48.35419846,
+    "lon": 15.375,
+    "freq": 438600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-25",
+    "comment": "Multi-Mode-Relais"
+  },
+  {
+    "name": "OE3XQA",
+    "lat": 48.22919846,
+    "lon": 16.20829964,
+    "freq": 438675000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XPC",
+    "lat": 47.9720993,
+    "lon": 15.60980034,
+    "freq": 438700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XHW",
+    "lat": 47.8125,
+    "lon": 16.04170036,
+    "freq": 438750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XSL",
+    "lat": 48.47919846,
+    "lon": 15.45829964,
+    "freq": 438775000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2021-08-07",
+    "comment": ""
+  },
+  {
+    "name": "OE3XNS",
+    "lat": 48.5625,
+    "lon": 16.375,
+    "freq": 438800000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XLU",
+    "lat": 48.10419846,
+    "lon": 16.20829964,
+    "freq": 439025000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-16",
+    "comment": ""
+  },
+  {
+    "name": "OE3XEB",
+    "lat": 48.22919846,
+    "lon": 16.125,
+    "freq": 439050000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XIA",
+    "lat": 48.22919846,
+    "lon": 16.20829964,
+    "freq": 1298050000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2023-07-20",
+    "comment": ""
+  },
+  {
+    "name": "OE3XPC",
+    "lat": 47.97919846,
+    "lon": 15.625,
+    "freq": 1298500000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWW",
+    "lat": 47.52080154,
+    "lon": 16.04170036,
+    "freq": 1298600000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE4XUB",
+    "lat": 47.659517,
+    "lon": 16.359836,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-12-14",
+    "comment": "e-power SvxLink"
+  },
+  {
+    "name": "OE6XAG",
+    "lat": 47.1875,
+    "lon": 15.45829964,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XBG",
+    "lat": 47.39580154,
+    "lon": 15.375,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XCD",
+    "lat": 47.5625,
+    "lon": 15.79170036,
+    "freq": 438625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": "Multi-Mode-Relais"
+  },
+  {
+    "name": "OE6XGD",
+    "lat": 47.0625,
+    "lon": 15.70829964,
+    "freq": 438750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XCG",
+    "lat": 47.02080154,
+    "lon": 15.45829964,
+    "freq": 438775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XAG",
+    "lat": 47.1875,
+    "lon": 15.45829964,
+    "freq": 438875000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-25",
+    "comment": "FM, C4FM (FCS001/09)"
+  },
+  {
+    "name": "OE6XDE",
+    "lat": 47.10419846,
+    "lon": 15.375,
+    "freq": 438900000,
+    "mode": "dstar",
+    "status": "Off-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XBG",
+    "lat": 47.39580154,
+    "lon": 15.375,
+    "freq": 438925000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE6XBF",
+    "lat": 46.85419846,
+    "lon": 15.95829964,
+    "freq": 438975000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE6XRE",
+    "lat": 47.52080154,
+    "lon": 14.95829964,
+    "freq": 439100000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": "Between October and June only available if sufficent power supply."
+  },
+  {
+    "name": "OE6XDD",
+    "lat": 47.1875,
+    "lon": 15.45829964,
+    "freq": 1298200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-06-28",
+    "comment": ""
+  },
+  {
+    "name": "OE6XDF",
+    "lat": 46.9375,
+    "lon": 15.375,
+    "freq": 145637500,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2024-02-16",
+    "comment": ""
+  },
+  {
+    "name": "OE3XSA",
+    "lat": 48.47919846,
+    "lon": 15.45829964,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-09-17",
+    "comment": ""
+  },
+  {
+    "name": "OE6XDF",
+    "lat": 46.9375,
+    "lon": 15.375,
+    "freq": 438900000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2024-02-17",
+    "comment": ""
+  },
+  {
+    "name": "E79WBL",
+    "lat": 44.76990128,
+    "lon": 17.12529945,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2016-08-22",
+    "comment": "Echolink via E79WBL-R"
+  },
+  {
+    "name": "E79VZA",
+    "lat": 44.44620132,
+    "lon": 18.10560036,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-11-09",
+    "comment": ""
+  },
+  {
+    "name": "E79VZE",
+    "lat": 44.26720047,
+    "lon": 17.85160065,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-08-07",
+    "comment": "1370 m ASL, Motorola gr500 20W."
+  },
+  {
+    "name": "E79VTR",
+    "lat": 44.29270172,
+    "lon": 17.6364994,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "E79VKO",
+    "lat": 44.30239868,
+    "lon": 18.54610062,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "E79VBL",
+    "lat": 44.97430038,
+    "lon": 16.97900009,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0AD",
+    "lat": 49.8125,
+    "lon": 18.20829964,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0AG",
+    "lat": 49.14580154,
+    "lon": 16.125,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2020-08-10",
+    "comment": ""
+  },
+  {
+    "name": "OK0OZL",
+    "lat": 49.20050049,
+    "lon": 17.6909008,
+    "freq": 145637500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-12",
+    "comment": ""
+  },
+  {
+    "name": "OK0D",
+    "lat": 49.54610062,
+    "lon": 18.44829941,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-12",
+    "comment": ""
+  },
+  {
+    "name": "OK0H",
+    "lat": 48.86920166,
+    "lon": 16.65010071,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2023-10-03",
+    "comment": ""
+  },
+  {
+    "name": "OK0AH",
+    "lat": 49.02080154,
+    "lon": 17.625,
+    "freq": 145737500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-09-25",
+    "comment": ""
+  },
+  {
+    "name": "OK0DSK",
+    "lat": 49.63259888,
+    "lon": 18.26449966,
+    "freq": 438600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0BD",
+    "lat": 49.8125,
+    "lon": 18.125,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0OZL",
+    "lat": 49.20050049,
+    "lon": 17.6909008,
+    "freq": 438725000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2016-03-31",
+    "comment": ""
+  },
+  {
+    "name": "OK0BAB",
+    "lat": 49.23490143,
+    "lon": 16.62190056,
+    "freq": 438925000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-10-05",
+    "comment": ""
+  },
+  {
+    "name": "OK0BHD",
+    "lat": 49.38970184,
+    "lon": 16.70529938,
+    "freq": 438975000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2018-08-29",
+    "comment": ""
+  },
+  {
+    "name": "OK0BH",
+    "lat": 48.86920166,
+    "lon": 16.65010071,
+    "freq": 439000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-10-01",
+    "comment": ""
+  },
+  {
+    "name": "OK0CHB",
+    "lat": 49.2030983,
+    "lon": 17.38290024,
+    "freq": 439150000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2015-12-14",
+    "comment": "Hytera"
+  },
+  {
+    "name": "OK0BZ",
+    "lat": 48.8745714,
+    "lon": 16.0034447,
+    "freq": 439150000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-08-30",
+    "comment": "New QTH: Znojmo - Cinova hora"
+  },
+  {
+    "name": "OK0KOP",
+    "lat": 48.97919846,
+    "lon": 17.79170036,
+    "freq": 439200000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2016-01-10",
+    "comment": ""
+  },
+  {
+    "name": "OK0BHS",
+    "lat": 48.86009979,
+    "lon": 17.36560059,
+    "freq": 439250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0BF",
+    "lat": 49.38619995,
+    "lon": 17.50130081,
+    "freq": 439275000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OK0Z",
+    "lat": 49.40000153,
+    "lon": 17.76670074,
+    "freq": 439400000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2020-08-15",
+    "comment": "Hytera"
+  },
+  {
+    "name": "OK0BDL",
+    "lat": 49.54610062,
+    "lon": 18.44829941,
+    "freq": 439425000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "9A0VOS",
+    "lat": 45.77080154,
+    "lon": 18.79170036,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0VVZ",
+    "lat": 46.1875,
+    "lon": 16.125,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0UPZ",
+    "lat": 45.47919846,
+    "lon": 17.70829964,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-07-20",
+    "comment": ""
+  },
+  {
+    "name": "9A0VZG",
+    "lat": 45.89580154,
+    "lon": 15.95829964,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0VNG",
+    "lat": 45.39580154,
+    "lon": 17.375,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0UZG",
+    "lat": 45.89580154,
+    "lon": 15.95829964,
+    "freq": 438750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0UNG",
+    "lat": 45.39580154,
+    "lon": 17.375,
+    "freq": 438800000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-12-08",
+    "comment": ""
+  },
+  {
+    "name": "9A0UVZ",
+    "lat": 46.1875,
+    "lon": 16.125,
+    "freq": 438850000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-06-28",
+    "comment": ""
+  },
+  {
+    "name": "HA5KDR",
+    "lat": 47.64580154,
+    "lon": 19.04170036,
+    "freq": 29225000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG5RVB",
+    "lat": 47.52080154,
+    "lon": 18.95829964,
+    "freq": 29250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "HG5RVB 10m-es \u00e1ga, innen dupla ptt-re indul. CTCSS-t adni nem kell, de az \u00e1tj\u00e1tsz\u00f3 sug\u00e1rozza!"
+  },
+  {
+    "name": "HA5RHA",
+    "lat": 47.5625,
+    "lon": 19.04170036,
+    "freq": 29670000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "tx: Sz\u00e9chenyi-hegy, rx: H\u00e1rmashat\u00e1r-hegy"
+  },
+  {
+    "name": "HA5KDR",
+    "lat": 47.6875,
+    "lon": 18.45829964,
+    "freq": 50510000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HA5KDR",
+    "lat": 47.6875,
+    "lon": 18.45829964,
+    "freq": 144500000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG2CR",
+    "lat": 45.97919846,
+    "lon": 17.45829964,
+    "freq": 144687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG2RVX",
+    "lat": 47.6875,
+    "lon": 18.45829964,
+    "freq": 144700000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2017-12-22",
+    "comment": "Kereszts\u00e1vos retranszl\u00e1ci\u00f3s \u00e1tj\u00e1tsz\u00f3. A 4m-es \u00e1gon kereszt\u00fcl a HG6RVX \u00e1tj\u00e1tsz\u00f3val \u00e1lland\u00f3 kapcsolatban van. "
+  },
+  {
+    "name": "HG5CJX",
+    "lat": 47.5019989,
+    "lon": 19.05999947,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-08-01",
+    "comment": ""
+  },
+  {
+    "name": "HG9HZL",
+    "lat": 48.0625,
+    "lon": 21.375,
+    "freq": 145350000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG0RVA",
+    "lat": 47.5625,
+    "lon": 21.625,
+    "freq": 145600000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "CTCSS-t adni nem kell, de az \u00e1tj\u00e1tsz\u00f3 sug\u00e1rozza!"
+  },
+  {
+    "name": "HG5RVB",
+    "lat": 47.52080154,
+    "lon": 18.95829964,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Link to 29.250MHz"
+  },
+  {
+    "name": "HG3RVB",
+    "lat": 46.72919846,
+    "lon": 17.54170036,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": ""
+  },
+  {
+    "name": "HG1RVD",
+    "lat": 47.5625,
+    "lon": 17.625,
+    "freq": 145637500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-12-22",
+    "comment": ""
+  },
+  {
+    "name": "HG7RVA",
+    "lat": 47.4375,
+    "lon": 18.875,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-08-20",
+    "comment": "Echolink technikai okok miatt nem \u00fczemel (2013.07.28)"
+  },
+  {
+    "name": "HG1RVA",
+    "lat": 46.8125,
+    "lon": 16.79170036,
+    "freq": 145662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG8RVC",
+    "lat": 46.27080154,
+    "lon": 20.125,
+    "freq": 145662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": ""
+  },
+  {
+    "name": "HG2RVC",
+    "lat": 47.72919846,
+    "lon": 18.70829964,
+    "freq": 145662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG5RVA",
+    "lat": 47.5625,
+    "lon": 18.95829964,
+    "freq": 145675000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2019-03-06",
+    "comment": ""
+  },
+  {
+    "name": "HG1RVB",
+    "lat": 47.64580154,
+    "lon": 16.54170036,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-05-22",
+    "comment": ""
+  },
+  {
+    "name": "HG9RVB",
+    "lat": 48.0625,
+    "lon": 20.625,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-05-06",
+    "comment": ""
+  },
+  {
+    "name": "HG8RVD",
+    "lat": 46.2708,
+    "lon": 19.125,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-01",
+    "comment": ""
+  },
+  {
+    "name": "HG3RVF",
+    "lat": 46.5625,
+    "lon": 17.95829964,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-03-20",
+    "comment": ""
+  },
+  {
+    "name": "HG2RVA",
+    "lat": 47.3125,
+    "lon": 17.79170036,
+    "freq": 145712500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-08-01",
+    "comment": ""
+  },
+  {
+    "name": "HG9RVA",
+    "lat": 48.0625,
+    "lon": 20.45829964,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-08-01",
+    "comment": ""
+  },
+  {
+    "name": "HG3RVC",
+    "lat": 46.35419846,
+    "lon": 18.70829964,
+    "freq": 145737500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-05-06",
+    "comment": ""
+  },
+  {
+    "name": "HG9RVD",
+    "lat": 48.22919846,
+    "lon": 20.29170036,
+    "freq": 145762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": "CTCSS-t adni nem kell, de az \u00e1tj\u00e1tsz\u00f3 sug\u00e1rozza!"
+  },
+  {
+    "name": "HG8RVA",
+    "lat": 46.7225,
+    "lon": 19.8517,
+    "freq": 145762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-01",
+    "comment": ""
+  },
+  {
+    "name": "HG3RVA",
+    "lat": 46.10419846,
+    "lon": 18.20829964,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-14",
+    "comment": ""
+  },
+  {
+    "name": "HG9RVC",
+    "lat": 48.39580154,
+    "lon": 21.625,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": "Radiolink to HG9RUA"
+  },
+  {
+    "name": "HG2RVD",
+    "lat": 47.77080154,
+    "lon": 18.79170036,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-06-25",
+    "comment": ""
+  },
+  {
+    "name": "HG7RVC",
+    "lat": 47.17792886,
+    "lon": 19.79817867,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-06-04",
+    "comment": ""
+  },
+  {
+    "name": "HG8RVE",
+    "lat": 46.6492447,
+    "lon": 21.2692926,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-08-18",
+    "comment": ""
+  },
+  {
+    "name": "HA5KDR",
+    "lat": 47.5625,
+    "lon": 19.04170036,
+    "freq": 433400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HA5KDR",
+    "lat": 47.64580154,
+    "lon": 19.04170036,
+    "freq": 433425000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Csak jelad\u00f3, Minden \u00f3r\u00e1ban n\u00e9gyszer k\u00fcld panor\u00e1mak\u00e9pet a Pism\u00e1nyr\u00f3l \u00e9s a hegyekr\u0151l."
+  },
+  {
+    "name": "HA9MDP",
+    "lat": 47.64580154,
+    "lon": 17.95829964,
+    "freq": 433550000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG1RUA",
+    "lat": 46.8125,
+    "lon": 16.79170036,
+    "freq": 439337500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": "Working on DMR/C4FM mode, analog (FM) access is prohibited."
+  },
+  {
+    "name": "HG8RUB",
+    "lat": 46.6875,
+    "lon": 21.125,
+    "freq": 439000000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": "Digit\u00e1lis \u00fczemben m?k\u00f6dik ideiglenes QTH-n, CTCSS n\u00e9lk\u00fcl."
+  },
+  {
+    "name": "HG1RUB",
+    "lat": 47.64580154,
+    "lon": 16.54170036,
+    "freq": 439375000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-30",
+    "comment": ""
+  },
+  {
+    "name": "HG7RUF",
+    "lat": 47.39580154,
+    "lon": 18.875,
+    "freq": 438425000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG3RUE",
+    "lat": 46.72919846,
+    "lon": 17.54170036,
+    "freq": 438450000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG7RUD",
+    "lat": 47.85419846,
+    "lon": 19.125,
+    "freq": 438450000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG5RUD",
+    "lat": 47.5625,
+    "lon": 19.04170036,
+    "freq": 438475000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "http://www.hg5rug.com/d-star.htm"
+  },
+  {
+    "name": "HG7RUG",
+    "lat": 47.72919846,
+    "lon": 18.875,
+    "freq": 438525000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "HG3RUD",
+    "lat": 46.35419846,
+    "lon": 17.79170036,
+    "freq": 438612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG0RUA",
+    "lat": 47.52080154,
+    "lon": 21.625,
+    "freq": 438625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-10-05",
+    "comment": "CTCSS-t adni nem kell, de az \u00e1tj\u00e1tsz\u00f3 sug\u00e1rozza!"
+  },
+  {
+    "name": "HG8RUA",
+    "lat": 46.27080154,
+    "lon": 20.125,
+    "freq": 438662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": ""
+  },
+  {
+    "name": "HG7RUA",
+    "lat": 47.4375,
+    "lon": 18.875,
+    "freq": 438675000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "HG4RUA",
+    "lat": 47.10419846,
+    "lon": 18.29170036,
+    "freq": 438700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG4RUB",
+    "lat": 47.1875,
+    "lon": 18.45829964,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "0000-00-00",
+    "comment": "Tervezett, \u00e1lland\u00f3 \u00f6sszek\u00f6ttet\u00e9sben lesz a HG2RVA \u00e1tj\u00e1tsz\u00f3val, m\u00e9g nem \u00fczemel."
+  },
+  {
+    "name": "HG4RUC",
+    "lat": 47.18600082,
+    "lon": 18.42210007,
+    "freq": 438750000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": "HG4RUC h\u00edv\u00f3jelet 15 percenk\u00e9nt ad t\u00e1rv\u00edr\u00f3ban."
+  },
+  {
+    "name": "HG9RUD",
+    "lat": 48.22919846,
+    "lon": 20.29170036,
+    "freq": 438762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG7RUB",
+    "lat": 47.17792886,
+    "lon": 19.79817867,
+    "freq": 438800000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-06-04",
+    "comment": ""
+  },
+  {
+    "name": "HG9RUA",
+    "lat": 48.0625,
+    "lon": 20.45829964,
+    "freq": 438862500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-10-05",
+    "comment": " Always connected to HG9RVC. Echolink connection via HG9RVC. "
+  },
+  {
+    "name": "HG3RUC",
+    "lat": 46.10419846,
+    "lon": 18.20829964,
+    "freq": 438900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-07-16",
+    "comment": ""
+  },
+  {
+    "name": "HG1RUC",
+    "lat": 47.22919846,
+    "lon": 16.625,
+    "freq": 439125000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-05-01",
+    "comment": "CTCSS-t adni nem kell, de az \u00e1tj\u00e1tsz\u00f3 sug\u00e1rozza!"
+  },
+  {
+    "name": "HG3RUA",
+    "lat": 46.8125,
+    "lon": 18.125,
+    "freq": 439150000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Echolink nem m\u0171k\u00f6dik (2013.09.11)"
+  },
+  {
+    "name": "HG5RUG",
+    "lat": 47.5208,
+    "lon": 18.9583,
+    "freq": 439200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-02-01",
+    "comment": ""
+  },
+  {
+    "name": "HG3RUF",
+    "lat": 46.5625,
+    "lon": 17.95829964,
+    "freq": 439250000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "0000-00-00",
+    "comment": "M?szaki okok miatt ideiglenesen nem \u00fczemel (2013.11.07)"
+  },
+  {
+    "name": "HG3RUB",
+    "lat": 46.39580154,
+    "lon": 18.125,
+    "freq": 439337500,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HG7RUC",
+    "lat": 47.72919846,
+    "lon": 18.875,
+    "freq": 439350000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUC",
+    "lat": 47.6875,
+    "lon": 18.45829964,
+    "freq": 439400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-06-25",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUB",
+    "lat": 47.77080154,
+    "lon": 18.79170036,
+    "freq": 439425000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-23",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUD",
+    "lat": 47.0625,
+    "lon": 17.625,
+    "freq": 439450000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HA5XTV",
+    "lat": 47.6875,
+    "lon": 18.45829964,
+    "freq": 1248000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "HA5XTV",
+    "lat": 47.5625,
+    "lon": 18.95829964,
+    "freq": 1282000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "SR9P",
+    "lat": 49.75329971,
+    "lon": 19.78219986,
+    "freq": 145662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-05-23",
+    "comment": ""
+  },
+  {
+    "name": "SR9X",
+    "lat": 49.30799866,
+    "lon": 19.93619919,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "SR9B",
+    "lat": 49.6875,
+    "lon": 19.04170036,
+    "freq": 145712500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-05-20",
+    "comment": ""
+  },
+  {
+    "name": "SR9S",
+    "lat": 49.6875,
+    "lon": 18.79170036,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2015-06-15",
+    "comment": ""
+  },
+  {
+    "name": "SR9NJ",
+    "lat": 49.41790009,
+    "lon": 20.89559937,
+    "freq": 438700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "SR9AE",
+    "lat": 49.76689911,
+    "lon": 20.05970001,
+    "freq": 438825000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-05-11",
+    "comment": ""
+  },
+  {
+    "name": "SR9PC",
+    "lat": 49.75329971,
+    "lon": 19.78219986,
+    "freq": 438850000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "SR9UVJ",
+    "lat": 49.41790009,
+    "lon": 20.89559937,
+    "freq": 439500000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2022-10-01",
+    "comment": ""
+  },
+  {
+    "name": "OE1XAT",
+    "lat": 48.27000046,
+    "lon": 16.29000092,
+    "freq": 438475000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-25",
+    "comment": ""
+  },
+  {
+    "name": "OE1XAR",
+    "lat": 48.31000137,
+    "lon": 16.38299942,
+    "freq": 438500000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-02-06",
+    "comment": "G4KLX DMR-gateway for access to brandmeister"
+  },
+  {
+    "name": "OE1XDS",
+    "lat": 48.22919846,
+    "lon": 16.375,
+    "freq": 145575000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE1XDS",
+    "lat": 48.22919846,
+    "lon": 16.375,
+    "freq": 1294425000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWU",
+    "lat": 47.53039932,
+    "lon": 15.91460037,
+    "freq": 439075000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-01-22",
+    "comment": "Linked to YSF AT-C4FM-Austria, Linked to DCS009A D-Star, Linked to REF 4196 in IPSC2"
+  },
+  {
+    "name": "OE3XPA",
+    "lat": 48.06079865,
+    "lon": 15.53829956,
+    "freq": 438450000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2023-01-29",
+    "comment": ""
+  },
+  {
+    "name": "OE3XFW",
+    "lat": 48.14099884,
+    "lon": 15.98849964,
+    "freq": 438975000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XCR",
+    "lat": 47.45970154,
+    "lon": 16.22200012,
+    "freq": 438837500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-11-01",
+    "comment": ""
+  },
+  {
+    "name": "OE3XTR",
+    "lat": 47.8125,
+    "lon": 16.04170036,
+    "freq": 438400000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XHB",
+    "lat": 48.35419846,
+    "lon": 15.375,
+    "freq": 438425000,
+    "mode": "dmr",
+    "status": "Off-air",
+    "updated": "2023-02-06",
+    "comment": ""
+  },
+  {
+    "name": "OE3XKC",
+    "lat": 48.03680038,
+    "lon": 15.43280029,
+    "freq": 438500000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XQA",
+    "lat": 48.22919846,
+    "lon": 16.20829964,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XYR",
+    "lat": 48.22069931,
+    "lon": 15.6218996,
+    "freq": 438375000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-01-07",
+    "comment": "dmr-austria network"
+  },
+  {
+    "name": "OE4XUB",
+    "lat": 47.75785,
+    "lon": 16.31109,
+    "freq": 438550000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2021-01-30",
+    "comment": ""
+  },
+  {
+    "name": "OE6XBF",
+    "lat": 46.85419846,
+    "lon": 15.95829964,
+    "freq": 438912500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": "120\u00b0 Sektorantenne Richtung Graz"
+  },
+  {
+    "name": "OE6XAG",
+    "lat": 47.1875,
+    "lon": 15.45829964,
+    "freq": 438600000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE8XPK",
+    "lat": 46.79470062,
+    "lon": 14.95829964,
+    "freq": 439087500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-12-18",
+    "comment": ""
+  },
+  {
+    "name": "YO5O",
+    "lat": 47.10419846,
+    "lon": 21.95829964,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Paleu drum, 1 km 10W jud. Bihor RV54 (R3)"
+  },
+  {
+    "name": "YO5S",
+    "lat": 47.10419846,
+    "lon": 23.125,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "RV56 (R4) Mtii Mesesului, 550m altitudine, 5 Km est de Zalau"
+  },
+  {
+    "name": "YO5B",
+    "lat": 46.97919846,
+    "lon": 22.45829964,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "10W jud. Bihor RV60 (R6)"
+  },
+  {
+    "name": "YO5KAW",
+    "lat": 47.8125,
+    "lon": 22.875,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-07-08",
+    "comment": "Radioclubul Satu Mare YO5KAW"
+  },
+  {
+    "name": "YO5U",
+    "lat": 47.10419846,
+    "lon": 21.95829964,
+    "freq": 438675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Paleu drum, 1 km"
+  },
+  {
+    "name": "YO5PCX",
+    "lat": 47.0625,
+    "lon": 21.95829964,
+    "freq": 438950000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": " YO5O R3 145.675"
+  },
+  {
+    "name": "YO5V",
+    "lat": 46.77080154,
+    "lon": 22.79170036,
+    "freq": 438975000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "YO5C",
+    "lat": 47.6875,
+    "lon": 22.45829964,
+    "freq": 439000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "op: YO5PEU Cristian"
+  },
+  {
+    "name": "S55VMB",
+    "lat": 46.51190186,
+    "lon": 15.56529999,
+    "freq": 51580000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "DVR-digital voice recorder (parrot). It is a part of VHF RV58 and UHF R93 on same location and can be crosslinked with both."
+  },
+  {
+    "name": "S55VHF",
+    "lat": 46.18740082,
+    "lon": 15.10739994,
+    "freq": 51890000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S59ACP",
+    "lat": 45.90480042,
+    "lon": 15.59220028,
+    "freq": 144612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55VRT",
+    "lat": 46.12329865,
+    "lon": 15.23890018,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55VNM",
+    "lat": 45.75999832,
+    "lon": 15.31729984,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55VRK",
+    "lat": 46.48509979,
+    "lon": 14.96380043,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55VCE",
+    "lat": 46.18740082,
+    "lon": 15.10739994,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "E-link shortcut: B5. Motorola R100 & RRC-4, Voiceclock, Voice WX station, Echolink ON"
+  },
+  {
+    "name": "S55VMB",
+    "lat": 46.51190186,
+    "lon": 15.56529999,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "E-link shortcut: B2, DTMF link to 6m S55VMB and S55UMB Echolink via S55VXX-R"
+  },
+  {
+    "name": "S55VCM",
+    "lat": 46.18320084,
+    "lon": 15.20810032,
+    "freq": 145587500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-06-08",
+    "comment": ""
+  },
+  {
+    "name": "S55DZA",
+    "lat": 46.18740082,
+    "lon": 15.10739994,
+    "freq": 438300000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2017-07-29",
+    "comment": "Brandmeister Network"
+  },
+  {
+    "name": "S55DMX",
+    "lat": 46.51490021,
+    "lon": 15.5777998,
+    "freq": 438350000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Gateway ircDDB online"
+  },
+  {
+    "name": "S55USC",
+    "lat": 46.3117981,
+    "lon": 15.37139988,
+    "freq": 438625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-09-03",
+    "comment": "E-link shortclock: B17. Echoproducer WX station for Celje"
+  },
+  {
+    "name": "S55UBR",
+    "lat": 45.90480042,
+    "lon": 15.59220028,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "New repeater on TEST!"
+  },
+  {
+    "name": "S55UTB",
+    "lat": 46.61970139,
+    "lon": 16.03499985,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "RRC-4"
+  },
+  {
+    "name": "S55UBO",
+    "lat": 46.28939819,
+    "lon": 15.5994997,
+    "freq": 438825000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "E-link shortcut: B11. CTCSS: 123 Hz 2m RTX OFF permanently connected with Echolink conference SLOVENIA"
+  },
+  {
+    "name": "S55USX",
+    "lat": 46.02180099,
+    "lon": 15.30840015,
+    "freq": 438900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Testing!"
+  },
+  {
+    "name": "S55UCE",
+    "lat": 46.29579926,
+    "lon": 15.21619987,
+    "freq": 438950000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "E-link shortcut: B1. RRC-4, High power RPT, Voiceclock, UHF input Temp. OFF"
+  },
+  {
+    "name": "S55USE",
+    "lat": 45.9858017,
+    "lon": 15.27950001,
+    "freq": 439000000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "E-link shortcut: B9. CTCSS: 123 Hz only TX from RPT to user Radiosystem, Voiceclock permanetly connected with Echolink conference SLOVENIA"
+  },
+  {
+    "name": "S55UTR",
+    "lat": 46.1753006,
+    "lon": 15.02280045,
+    "freq": 439175000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Voiceclock, Echoproducer WX linked with S55UZA via VHF link."
+  },
+  {
+    "name": "S55UKK",
+    "lat": 45.96099854,
+    "lon": 15.45400047,
+    "freq": 439200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "Soon QRV! "
+  },
+  {
+    "name": "S55UMX",
+    "lat": 46.51490021,
+    "lon": 15.5777998,
+    "freq": 439200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "CTCSS: 88.5 Hz in case of interference. Most of time OFF. Voice WX station for MB, RRC 4, Voiceclock"
+  },
+  {
+    "name": "S55UMB",
+    "lat": 46.51190186,
+    "lon": 15.56529999,
+    "freq": 439225000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55UZA",
+    "lat": 46.18740082,
+    "lon": 15.10739994,
+    "freq": 439275000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "2 m TX with CTCSS: 123.0 Hz on 70 cm RX"
+  },
+  {
+    "name": "S55UCM",
+    "lat": 46.18320084,
+    "lon": 15.20810032,
+    "freq": 439300000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "S55URS",
+    "lat": 46.26319885,
+    "lon": 15.69029999,
+    "freq": 439325000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": "CTCSS: 91.5 Hz 2m -> 70 cm RRC-3"
+  },
+  {
+    "name": "S55URK",
+    "lat": 46.48509979,
+    "lon": 14.96380043,
+    "freq": 439375000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVV",
+    "lat": 48.18249893,
+    "lon": 17.09429932,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVT",
+    "lat": 48.8742981,
+    "lon": 21.48699951,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-11",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVY",
+    "lat": 49.02080154,
+    "lon": 20.875,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVU",
+    "lat": 49.28310013,
+    "lon": 19.48139954,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVR",
+    "lat": 48.88249969,
+    "lon": 20.13999939,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-07-15",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVQ",
+    "lat": 48.85760117,
+    "lon": 17.6753006,
+    "freq": 145762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-15",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUJ",
+    "lat": 48.85749817,
+    "lon": 17.68190002,
+    "freq": 438875000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OAE",
+    "lat": 49.2262001,
+    "lon": 18.68180084,
+    "freq": 438925000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUL",
+    "lat": 48.35419846,
+    "lon": 19.70829964,
+    "freq": 438975000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-13",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUS",
+    "lat": 49.31819916,
+    "lon": 20.70599937,
+    "freq": 439025000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OM0ODK",
+    "lat": 48.78267,
+    "lon": 20.98709,
+    "freq": 438250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-06-19",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUP",
+    "lat": 49.06420135,
+    "lon": 21.25620079,
+    "freq": 439100000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUT",
+    "lat": 48.89440155,
+    "lon": 18.04470062,
+    "freq": 439100000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2018-03-04",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUX",
+    "lat": 48.40319824,
+    "lon": 18.87719917,
+    "freq": 439150000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-04-16",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUG",
+    "lat": 48.19350052,
+    "lon": 17.72050095,
+    "freq": 439175000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OET",
+    "lat": 47.98830032,
+    "lon": 18.15250015,
+    "freq": 439225000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUZ",
+    "lat": 48.60419846,
+    "lon": 19.125,
+    "freq": 439250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUH",
+    "lat": 48.71730042,
+    "lon": 19.1522007,
+    "freq": 439275000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUN",
+    "lat": 48.40999985,
+    "lon": 18.54059982,
+    "freq": 439300000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUB",
+    "lat": 48.18249893,
+    "lon": 17.09429932,
+    "freq": 439325000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-11",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUR",
+    "lat": 48.3689003,
+    "lon": 17.5781002,
+    "freq": 439475000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "0000-00-00",
+    "comment": ""
+  },
+  {
+    "name": "UR0DVC",
+    "lat": 48.61842,
+    "lon": 22.34646,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-11-12",
+    "comment": "Linked to Analog Transkarpation room 27055"
+  },
+  {
+    "name": "UR0DMU",
+    "lat": 48.4314003,
+    "lon": 22.68740082,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-04-02",
+    "comment": ""
+  },
+  {
+    "name": "R5X",
+    "lat": 44.66590118,
+    "lon": 20.93350029,
+    "freq": 145737500,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2015-01-03",
+    "comment": ""
+  },
+  {
+    "name": "YU0VFG",
+    "lat": 45.14810181,
+    "lon": 19.87960052,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-03-30",
+    "comment": "R5"
+  },
+  {
+    "name": "RU5",
+    "lat": 45.14810181,
+    "lon": 19.87960052,
+    "freq": 434725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "RU5"
+  },
+  {
+    "name": "RU15",
+    "lat": 44.81169891,
+    "lon": 20.54000092,
+    "freq": 434975000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-02-19",
+    "comment": "RU15"
+  },
+  {
+    "name": "RU9",
+    "lat": 44.77310181,
+    "lon": 20.46290016,
+    "freq": 434825000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-10-27",
+    "comment": "RU9"
+  },
+  {
+    "name": "YU0UBG",
+    "lat": 44.68980026,
+    "lon": 20.5461998,
+    "freq": 434625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-10-27",
+    "comment": ""
+  },
+  {
+    "name": "YU0VBG",
+    "lat": 44.68980026,
+    "lon": 20.5461998,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2024-02-14",
+    "comment": "R1"
+  },
+  {
+    "name": "YU0VBC",
+    "lat": 44.81480026,
+    "lon": 20.46290016,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2015-01-04",
+    "comment": "R1"
+  },
+  {
+    "name": "YU0VSA",
+    "lat": 44.77310181,
+    "lon": 19.71290016,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-18",
+    "comment": "R0"
+  },
+  {
+    "name": "YU0VSU",
+    "lat": 46.10639954,
+    "lon": 19.71290016,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-10-28",
+    "comment": "R0"
+  },
+  {
+    "name": "R0X",
+    "lat": 44.98139954,
+    "lon": 20.7961998,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2017-04-20",
+    "comment": "R0X"
+  },
+  {
+    "name": "R6",
+    "lat": 45.81480026,
+    "lon": 19.12960052,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "R6"
+  },
+  {
+    "name": "R3",
+    "lat": 45.14810181,
+    "lon": 21.46290016,
+    "freq": 145675000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-19",
+    "comment": "R3"
+  },
+  {
+    "name": "RU12",
+    "lat": 45.27310181,
+    "lon": 19.7961998,
+    "freq": 434900000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2022-06-05",
+    "comment": "RU12"
+  },
+  {
+    "name": "YU0UVV",
+    "lat": 44.27310181,
+    "lon": 19.87960052,
+    "freq": 434900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-10-02",
+    "comment": "RU12"
+  },
+  {
+    "name": "RU6",
+    "lat": 45.81480026,
+    "lon": 19.12960052,
+    "freq": 434750000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "RU6"
+  },
+  {
+    "name": "R7X",
+    "lat": 44.43980026,
+    "lon": 20.0461998,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "R7X"
+  },
+  {
+    "name": "YU0VCR",
+    "lat": 44.60639954,
+    "lon": 19.46290016,
+    "freq": 145762500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "R6X"
+  },
+  {
+    "name": "RU8",
+    "lat": 44.60639954,
+    "lon": 19.46290016,
+    "freq": 434800000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": "RU8"
+  },
+  {
+    "name": "R0",
+    "lat": 45.27310181,
+    "lon": 19.7961998,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2016-01-17",
+    "comment": "R0"
+  },
+  {
+    "name": "UR0DUC",
+    "lat": 48.61800003,
+    "lon": 22.35029984,
+    "freq": 438650000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-11-12",
+    "comment": "Hytera RD985. DMR-BM"
+  },
+  {
+    "name": "HG5RUC",
+    "lat": 47.48329926,
+    "lon": 18.98329926,
+    "freq": 438500000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "OE1XQU",
+    "lat": 48.1875,
+    "lon": 16.375,
+    "freq": 51990000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE1XDT",
+    "lat": 48.24029922,
+    "lon": 16.4102993,
+    "freq": 438337500,
+    "mode": "dmr",
+    "status": "Off-air",
+    "updated": "2023-11-15",
+    "comment": "Zeitschlitz 1: SIP Telefonie, SIP Mailbox, lokale Kommunikation, kein Routing \u00fcber Sprechgruppen 1,2, ... 232 Zeitschlitz 2: Routing \u00fcber Sprechgruppen und frei w\u00e4hlbare Reflektoren (derzeit kein default-Reflektor)"
+  },
+  {
+    "name": "OE4XSB",
+    "lat": 47.87540054,
+    "lon": 16.47599983,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-11-01",
+    "comment": ""
+  },
+  {
+    "name": "OE6XAG",
+    "lat": 47.1875,
+    "lon": 15.45829964,
+    "freq": 437975000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-09-15",
+    "comment": "MMDVM"
+  },
+  {
+    "name": "9A1CAE",
+    "lat": 45.30080032,
+    "lon": 17.69000053,
+    "freq": 145587500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUV",
+    "lat": 49.15420151,
+    "lon": 18.95660019,
+    "freq": 439200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-05-11",
+    "comment": ""
+  },
+  {
+    "name": "OM0ODB",
+    "lat": 48.178,
+    "lon": 17.044,
+    "freq": 438325000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-02-09",
+    "comment": "D-STAR DCS019S"
+  },
+  {
+    "name": "YO2L",
+    "lat": 46.44150162,
+    "lon": 22.68779945,
+    "freq": 439300000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-10",
+    "comment": "1848 m."
+  },
+  {
+    "name": "YO2Z",
+    "lat": 45.74890137,
+    "lon": 21.20870018,
+    "freq": 438950000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-10",
+    "comment": "HAAT: 75m from the ground"
+  },
+  {
+    "name": "YO2B",
+    "lat": 45.18259811,
+    "lon": 22.05439949,
+    "freq": 145637500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-06",
+    "comment": ""
+  },
+  {
+    "name": "YO2I",
+    "lat": 46.26520157,
+    "lon": 21.66390038,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-08",
+    "comment": "380m"
+  },
+  {
+    "name": "YO2V",
+    "lat": 45.56280136,
+    "lon": 21.7227993,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-06",
+    "comment": "380m"
+  },
+  {
+    "name": "YO2KAMR7",
+    "lat": 46.16889954,
+    "lon": 21.06780052,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-04-10",
+    "comment": "53m from the ground"
+  },
+  {
+    "name": "YO2KCB-3",
+    "lat": 45.18880081,
+    "lon": 22.07869911,
+    "freq": 439325000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-06",
+    "comment": "1444m"
+  },
+  {
+    "name": "YO2LIS",
+    "lat": 46.18659973,
+    "lon": 21.31229973,
+    "freq": 439400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2015-09-06",
+    "comment": ""
+  },
+  {
+    "name": "OM0OAA",
+    "lat": 49.2262001,
+    "lon": 18.68180084,
+    "freq": 438625000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2015-11-08",
+    "comment": ""
+  },
+  {
+    "name": "OM0OVW",
+    "lat": 48.73939896,
+    "lon": 18.99029922,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2022-11-04",
+    "comment": ""
+  },
+  {
+    "name": "OK0DHD",
+    "lat": 49.41279984,
+    "lon": 16.75419998,
+    "freq": 145587500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-06-19",
+    "comment": ""
+  },
+  {
+    "name": "OK4PS",
+    "lat": 49.29169846,
+    "lon": 17.39940071,
+    "freq": 438050000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2015-11-16",
+    "comment": ""
+  },
+  {
+    "name": "OK0KOP",
+    "lat": 49.07740021,
+    "lon": 17.43169975,
+    "freq": 439200000,
+    "mode": "dmr",
+    "status": "Unknown",
+    "updated": "2021-10-11",
+    "comment": "DMR-plus"
+  },
+  {
+    "name": "HG8RUD",
+    "lat": 46.21889877,
+    "lon": 20.48089981,
+    "freq": 439125000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2016-08-20",
+    "comment": ""
+  },
+  {
+    "name": "HG0RUB",
+    "lat": 47.94950104,
+    "lon": 21.72439957,
+    "freq": 438725000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2019-12-03",
+    "comment": ""
+  },
+  {
+    "name": "HG0RVB",
+    "lat": 47.94950104,
+    "lon": 21.72439957,
+    "freq": 145662500,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2019-12-03",
+    "comment": ""
+  },
+  {
+    "name": "HG1RUD",
+    "lat": 47.5802,
+    "lon": 17.6592,
+    "freq": 439250000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2023-11-24",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUX",
+    "lat": 47.04639816,
+    "lon": 17.65690041,
+    "freq": 434675000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2017-12-22",
+    "comment": "retranslation repeater. Connected HG2RVX HG5RUX HG6RVX system"
+  },
+  {
+    "name": "HG5RUX",
+    "lat": 47.4978981,
+    "lon": 19.04019928,
+    "freq": 433700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2016-05-21",
+    "comment": "retranslation repeater. Connected HG2RVX HG2RUX HG6RVX system"
+  },
+  {
+    "name": "HG5RHA",
+    "lat": 47.4978981,
+    "lon": 19.04019928,
+    "freq": 29670000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2016-05-21",
+    "comment": ""
+  },
+  {
+    "name": "HG8RUC",
+    "lat": 46.7225,
+    "lon": 19.8517,
+    "freq": 438950000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-11-01",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUF",
+    "lat": 47.63999939,
+    "lon": 18.40999985,
+    "freq": 438275000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2016-05-21",
+    "comment": ""
+  },
+  {
+    "name": "OE1XTW",
+    "lat": 48.20819855,
+    "lon": 16.37380028,
+    "freq": 430487500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE1XZS",
+    "lat": 48.1996994,
+    "lon": 16.26790047,
+    "freq": 430562500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-20",
+    "comment": "TETRA DMO1A"
+  },
+  {
+    "name": "OE3XVI",
+    "lat": 47.93740082,
+    "lon": 15.82310009,
+    "freq": 438275000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2023-02-15",
+    "comment": ""
+  },
+  {
+    "name": "OE3XKV",
+    "lat": 47.71089935,
+    "lon": 14.90970039,
+    "freq": 438200000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-01-07",
+    "comment": ""
+  },
+  {
+    "name": "OE3XMC",
+    "lat": 48.14089966,
+    "lon": 16.47640038,
+    "freq": 438987500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2021-01-30",
+    "comment": ""
+  },
+  {
+    "name": "OE3XMC",
+    "lat": 48.14089966,
+    "lon": 16.47640038,
+    "freq": 145787500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XSA",
+    "lat": 48.47919846,
+    "lon": 15.45829964,
+    "freq": 438350000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2021-09-17",
+    "comment": ""
+  },
+  {
+    "name": "OE6XFD",
+    "lat": 46.80220032,
+    "lon": 15.43809986,
+    "freq": 438200000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-01-26",
+    "comment": ""
+  },
+  {
+    "name": "OE6XME",
+    "lat": 47.50550079,
+    "lon": 15.44909954,
+    "freq": 438525000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE6XLR",
+    "lat": 47.36449814,
+    "lon": 15.1967001,
+    "freq": 438250000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "S55DSC",
+    "lat": 46.31150055,
+    "lon": 15.39900017,
+    "freq": 438225000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2017-07-29",
+    "comment": "Brandmeister Network"
+  },
+  {
+    "name": "S55DTR",
+    "lat": 46.15039825,
+    "lon": 15.04529953,
+    "freq": 439175000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2017-07-29",
+    "comment": "Brandmeister Network"
+  },
+  {
+    "name": "OM0ODM",
+    "lat": 48.71500015,
+    "lon": 21.23590088,
+    "freq": 438225000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-06-29",
+    "comment": ""
+  },
+  {
+    "name": "YU0VZR",
+    "lat": 45.38159943,
+    "lon": 20.36860085,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2016-11-17",
+    "comment": "R0 Top of ZRENJANIN hospital "
+  },
+  {
+    "name": "SR9UVP",
+    "lat": 49.75329971,
+    "lon": 19.78219986,
+    "freq": 439362500,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2016-09-08",
+    "comment": ""
+  },
+  {
+    "name": "RU2X",
+    "lat": 44.72829819,
+    "lon": 20.12330055,
+    "freq": 434662500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-04-20",
+    "comment": ""
+  },
+  {
+    "name": "OE1XAR",
+    "lat": 48.33160019,
+    "lon": 16.36149979,
+    "freq": 430412500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-02-16",
+    "comment": ""
+  },
+  {
+    "name": "9A0LKA",
+    "lat": 45.49290085,
+    "lon": 15.55529976,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2016-10-10",
+    "comment": ""
+  },
+  {
+    "name": "OM0OUA",
+    "lat": 49.06169891,
+    "lon": 18.91900063,
+    "freq": 439137500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-13",
+    "comment": "Sysop: OM6AR"
+  },
+  {
+    "name": "HG1RUE",
+    "lat": 47.6875,
+    "lon": 17.65040016,
+    "freq": 438250000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "HG3RUG",
+    "lat": 46.17779922,
+    "lon": 18.33749962,
+    "freq": 438325000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "HG9RUG",
+    "lat": 48.08330154,
+    "lon": 20.5,
+    "freq": 438200000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2018-01-01",
+    "comment": "Only works with C4FM"
+  },
+  {
+    "name": "OM0OAC",
+    "lat": 49.43859863,
+    "lon": 18.78980064,
+    "freq": 438225000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2016-11-15",
+    "comment": ""
+  },
+  {
+    "name": "OK0DIT",
+    "lat": 49.26869965,
+    "lon": 16.30680084,
+    "freq": 438637500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2018-09-10",
+    "comment": "Multimode Digital Voice Modem Repeater"
+  },
+  {
+    "name": "S55UHF",
+    "lat": 46.08810043,
+    "lon": 15.07250023,
+    "freq": 439125000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-02-24",
+    "comment": ""
+  },
+  {
+    "name": "S55VKK",
+    "lat": 45.97100067,
+    "lon": 15.45699978,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-10-09",
+    "comment": ""
+  },
+  {
+    "name": "HG6RUD",
+    "lat": 47.66569901,
+    "lon": 19.67670059,
+    "freq": 438225000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "9A0DSK",
+    "lat": 45.41199875,
+    "lon": 16.2656002,
+    "freq": 438250000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "E79WPD",
+    "lat": 44.97779846,
+    "lon": 16.70610046,
+    "freq": 438825000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-02",
+    "comment": ""
+  },
+  {
+    "name": "OM0OAF",
+    "lat": 48.7256012,
+    "lon": 19.11440086,
+    "freq": 439125000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-13",
+    "comment": ""
+  },
+  {
+    "name": "HG8RUE",
+    "lat": 46.64730072,
+    "lon": 21.27840042,
+    "freq": 438225000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "9A0DZG",
+    "lat": 45.8995018,
+    "lon": 15.94820023,
+    "freq": 438225000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2017-09-25",
+    "comment": ""
+  },
+  {
+    "name": "9A0VHZ",
+    "lat": 46.02590179,
+    "lon": 15.90380001,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "Unknown",
+    "updated": "2017-07-21",
+    "comment": ""
+  },
+  {
+    "name": "9A0VVK",
+    "lat": 45.31000137,
+    "lon": 18.76519966,
+    "freq": 145750000,
+    "mode": "nfm",
+    "status": "Unknown",
+    "updated": "2017-07-21",
+    "comment": ""
+  },
+  {
+    "name": "S55DMX",
+    "lat": 46.55459976,
+    "lon": 15.64589977,
+    "freq": 438350000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2017-07-29",
+    "comment": "Brandmeister Network"
+  },
+  {
+    "name": "E79VBL",
+    "lat": 44.45999908,
+    "lon": 17.12000084,
+    "freq": 145725000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-08-02",
+    "comment": ""
+  },
+  {
+    "name": "OE1XKW",
+    "lat": 48.19229889,
+    "lon": 16.34869957,
+    "freq": 438400000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XLU",
+    "lat": 48.10419846,
+    "lon": 16.20829964,
+    "freq": 145587500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2019-09-04",
+    "comment": ""
+  },
+  {
+    "name": "OE3XKQ",
+    "lat": 48.4233017,
+    "lon": 15.57900047,
+    "freq": 438400000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-01-07",
+    "comment": ""
+  },
+  {
+    "name": "OE4XBJ",
+    "lat": 47.29600143,
+    "lon": 16.09399986,
+    "freq": 438325000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "YU0VBV",
+    "lat": 44.72900009,
+    "lon": 20.54199982,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-10-27",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUI",
+    "lat": 47.78839874,
+    "lon": 18.74340057,
+    "freq": 439000000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-07-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0LZG",
+    "lat": 45.80070114,
+    "lon": 15.97119999,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0LSK",
+    "lat": 45.48509979,
+    "lon": 16.37310028,
+    "freq": 439425000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0XVZ",
+    "lat": 46.23389816,
+    "lon": 16.27960014,
+    "freq": 145712500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0LNM",
+    "lat": 46.16690063,
+    "lon": 16.33530045,
+    "freq": 145787500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0UZZ",
+    "lat": 45.91669846,
+    "lon": 15.9666996,
+    "freq": 439400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0LNK",
+    "lat": 45.34000015,
+    "lon": 16.97859955,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-12-14",
+    "comment": ""
+  },
+  {
+    "name": "9A0LDA",
+    "lat": 45.5929985,
+    "lon": 17.22380066,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0VPZ",
+    "lat": 45.52249908,
+    "lon": 17.60829926,
+    "freq": 145650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0LNG",
+    "lat": 45.2582016,
+    "lon": 17.38400078,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "RU692",
+    "lat": 45.55500031,
+    "lon": 18.69549942,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "9A0VBM",
+    "lat": 45.80609894,
+    "lon": 18.65950012,
+    "freq": 145625000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2017-12-28",
+    "comment": ""
+  },
+  {
+    "name": "HG8RUG",
+    "lat": 46.73740005,
+    "lon": 21.3810997,
+    "freq": 438475000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": "Brandmeister network"
+  },
+  {
+    "name": "SR9VJK",
+    "lat": 49.4178009,
+    "lon": 20.89529991,
+    "freq": 438312500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2018-07-14",
+    "comment": ""
+  },
+  {
+    "name": "YU0DSU",
+    "lat": 46.0864255,
+    "lon": 19.67115998,
+    "freq": 438300000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-07-22",
+    "comment": ""
+  },
+  {
+    "name": "OM0ODZ",
+    "lat": 48.57619858,
+    "lon": 19.13710022,
+    "freq": 438400000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-13",
+    "comment": ""
+  },
+  {
+    "name": "S55VSC",
+    "lat": 46.30920029,
+    "lon": 15.38000011,
+    "freq": 145637500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2018-03-31",
+    "comment": ""
+  },
+  {
+    "name": "HG1RUI",
+    "lat": 47.39630127,
+    "lon": 16.47500038,
+    "freq": 438375000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-01-25",
+    "comment": ""
+  },
+  {
+    "name": "RU692 BR\u010cKO",
+    "lat": 44.87630081,
+    "lon": 18.81220055,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2018-07-01",
+    "comment": "Local"
+  },
+  {
+    "name": "9A0DNM",
+    "lat": 46.14599991,
+    "lon": 16.32769966,
+    "freq": 438700000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2018-09-03",
+    "comment": ""
+  },
+  {
+    "name": "9A0UKS",
+    "lat": 45.59669876,
+    "lon": 16.07480049,
+    "freq": 439062500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "9A0DFR",
+    "lat": 45.80149841,
+    "lon": 15.97099972,
+    "freq": 438500000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-11",
+    "comment": ""
+  },
+  {
+    "name": "HG1RUJ",
+    "lat": 47.23770142,
+    "lon": 16.58580017,
+    "freq": 439312500,
+    "mode": "dmr",
+    "status": "Off-air",
+    "updated": "2020-07-15",
+    "comment": ""
+  },
+  {
+    "name": "OK0YSF",
+    "lat": 49.35509872,
+    "lon": 16.78440094,
+    "freq": 145612500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-18",
+    "comment": ""
+  },
+  {
+    "name": "HG2RUJ",
+    "lat": 47.64519882,
+    "lon": 18.42169952,
+    "freq": 438200000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-07-28",
+    "comment": ""
+  },
+  {
+    "name": "OE3XLU",
+    "lat": 48.10419846,
+    "lon": 16.20829964,
+    "freq": 29660000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2023-07-20",
+    "comment": ""
+  },
+  {
+    "name": "OE3XAV",
+    "lat": 48.66329956,
+    "lon": 16.59280014,
+    "freq": 438725000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-02-06",
+    "comment": "planned: analog echolink with ctcss 162,2 Hz"
+  },
+  {
+    "name": "9A0VMB",
+    "lat": 45.52190018,
+    "lon": 16.72850037,
+    "freq": 145687500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-12-14",
+    "comment": ""
+  },
+  {
+    "name": "9A0DKT",
+    "lat": 45.52190018,
+    "lon": 16.72850037,
+    "freq": 439250000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-12-14",
+    "comment": ""
+  },
+  {
+    "name": "HG4RUD",
+    "lat": 47.25849915,
+    "lon": 18.59670067,
+    "freq": 438237500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-12-12",
+    "comment": ""
+  },
+  {
+    "name": "RU10",
+    "lat": 45.00790024,
+    "lon": 19.82259941,
+    "freq": 434850000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-01-05",
+    "comment": ""
+  },
+  {
+    "name": "9A0DBJ",
+    "lat": 45.88890076,
+    "lon": 16.86149979,
+    "freq": 438550000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2019-11-15",
+    "comment": ""
+  },
+  {
+    "name": "HG8RUW",
+    "lat": 46.68267,
+    "lon": 21.10811,
+    "freq": 438400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-06-03",
+    "comment": ""
+  },
+  {
+    "name": "SR9ZAR",
+    "lat": 49.7670847,
+    "lon": 19.2140007,
+    "freq": 439537500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-07-02",
+    "comment": ""
+  },
+  {
+    "name": "OE4XBJ",
+    "lat": 47.29600143,
+    "lon": 16.09399986,
+    "freq": 430412500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-02-16",
+    "comment": "tetra dmo"
+  },
+  {
+    "name": "OE6XWG",
+    "lat": 47.1118,
+    "lon": 15.5492,
+    "freq": 430412500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-07-19",
+    "comment": "tetra dmo"
+  },
+  {
+    "name": "OE1XUR",
+    "lat": 48.155,
+    "lon": 16.3957,
+    "freq": 438450000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-02-06",
+    "comment": ""
+  },
+  {
+    "name": "OE3XFC",
+    "lat": 47.53043,
+    "lon": 15.914514,
+    "freq": 1298225000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2020-08-28",
+    "comment": ""
+  },
+  {
+    "name": "S55DSF",
+    "lat": 46.18753,
+    "lon": 15.10746,
+    "freq": 439100000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2020-12-03",
+    "comment": ""
+  },
+  {
+    "name": "HG6RUC",
+    "lat": 47.872,
+    "lon": 20.0134,
+    "freq": 438575000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2020-12-27",
+    "comment": ""
+  },
+  {
+    "name": "OE4XSB",
+    "lat": 47.87540054,
+    "lon": 16.47599983,
+    "freq": 438362500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2021-05-22",
+    "comment": ""
+  },
+  {
+    "name": "",
+    "lat": 45.7488716,
+    "lon": 21.2086793,
+    "freq": 439100000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-05-29",
+    "comment": ""
+  },
+  {
+    "name": "OE1XQU",
+    "lat": 48.16999817,
+    "lon": 16.35000038,
+    "freq": 2401900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-05-14",
+    "comment": ""
+  },
+  {
+    "name": "S55VOR",
+    "lat": 46.4487228,
+    "lon": 16.1760433,
+    "freq": 145737500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-07-11",
+    "comment": ""
+  },
+  {
+    "name": "OE3XSA",
+    "lat": 48.433643,
+    "lon": 15.471561,
+    "freq": 438775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-09-17",
+    "comment": ""
+  },
+  {
+    "name": "UR0DUB",
+    "lat": 48.610328,
+    "lon": 22.339001,
+    "freq": 438750000,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2023-11-12",
+    "comment": "Connected to XLS-257B Transcarpathia talk group, bridge DMR TG25507"
+  },
+  {
+    "name": "OE3XWJ",
+    "lat": 48.35419846,
+    "lon": 15.375,
+    "freq": 51900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2021-10-24",
+    "comment": ""
+  },
+  {
+    "name": "OK0BRN",
+    "lat": 49.198978,
+    "lon": 16.532925,
+    "freq": 439375000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-09-14",
+    "comment": ""
+  },
+  {
+    "name": "RU712",
+    "lat": 45.2396085,
+    "lon": 19.8227056,
+    "freq": 438900000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-06-05",
+    "comment": ""
+  },
+  {
+    "name": "OM0ODA",
+    "lat": 48.1826,
+    "lon": 17.0948,
+    "freq": 439525000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-11-04",
+    "comment": ""
+  },
+  {
+    "name": "OE1XCS",
+    "lat": 48.14405,
+    "lon": 16.42,
+    "freq": 1298275000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2022-06-12",
+    "comment": "Repeater - Chain 23cm"
+  },
+  {
+    "name": "OK0DHD",
+    "lat": 49.41275,
+    "lon": 16.754256,
+    "freq": 438450000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-06-19",
+    "comment": ""
+  },
+  {
+    "name": "YU0DVA",
+    "lat": 44.27310181,
+    "lon": 19.87960052,
+    "freq": 438500000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-10-03",
+    "comment": "RU680"
+  },
+  {
+    "name": "OE1XBA",
+    "lat": 48.1679638,
+    "lon": 16.38715982,
+    "freq": 438312500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OE3XTR",
+    "lat": 47.8218,
+    "lon": 16.0335,
+    "freq": 438400000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OE3XQQ",
+    "lat": 48.48509,
+    "lon": 16.06498,
+    "freq": 438075000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-09-01",
+    "comment": ""
+  },
+  {
+    "name": "OE6XNG",
+    "lat": 47.11856,
+    "lon": 14.93233,
+    "freq": 439000000,
+    "mode": "nfm",
+    "status": "Off-air",
+    "updated": "2023-07-24",
+    "comment": ""
+  },
+  {
+    "name": "YU0UDM",
+    "lat": 45.2177,
+    "lon": 19.8566,
+    "freq": 438475000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2022-12-04",
+    "comment": "SysOPs: YU7AC, YT2CQ"
+  },
+  {
+    "name": "SR9GP",
+    "lat": 49.4674043,
+    "lon": 20.5605487,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-01-16",
+    "comment": ""
+  },
+  {
+    "name": "YO2KAM-DMR",
+    "lat": 46.1158,
+    "lon": 21.1911,
+    "freq": 439750000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-04-11",
+    "comment": ""
+  },
+  {
+    "name": "YO2MAB-1",
+    "lat": 46.1158,
+    "lon": 21.1911,
+    "freq": 439050000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-04-11",
+    "comment": "RoLink node"
+  },
+  {
+    "name": "YO2KAMR7",
+    "lat": 46.16889,
+    "lon": 21.0678,
+    "freq": 145775000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-04-11",
+    "comment": ""
+  },
+  {
+    "name": "OE1XAR",
+    "lat": 48.31000137,
+    "lon": 16.38299942,
+    "freq": 438425000,
+    "mode": "ysf",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OE1XCS",
+    "lat": 48.14405,
+    "lon": 16.42,
+    "freq": 430337500,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OE1XQU",
+    "lat": 48.16999817,
+    "lon": 16.35000038,
+    "freq": 1298250000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "OE3XWJ",
+    "lat": 48.35419846,
+    "lon": 15.375,
+    "freq": 438425000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-07-21",
+    "comment": ""
+  },
+  {
+    "name": "HG3RUF",
+    "lat": 46.93963,
+    "lon": 18.16471,
+    "freq": 439275000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2023-10-03",
+    "comment": " Hytera RD-625"
+  },
+  {
+    "name": "OE3XOR",
+    "lat": 48.019351,
+    "lon": 15.753696,
+    "freq": 438300000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-10-07",
+    "comment": ""
+  },
+  {
+    "name": "UR0DVD",
+    "lat": 48.634745,
+    "lon": 22.290637,
+    "freq": 145700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-11-07",
+    "comment": "Radio TX/RX - \u200bMotorola CM340 # Repeater Controller - ID-O-Matic IV # ANT - 4-Bay Dipole Antenna, 9 dBd # Duplexer - Radian DPRF1504-C4 # WiRES-X ID - 95955 # WiRES-X Mode - Analog"
+  },
+  {
+    "name": "UR0DUM",
+    "lat": 48.634745,
+    "lon": 22.290637,
+    "freq": 438700000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2024-02-28",
+    "comment": ""
+  },
+  {
+    "name": "",
+    "lat": 44.5374611,
+    "lon": 18.6734688,
+    "freq": 145600000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-11-19",
+    "comment": ""
+  },
+  {
+    "name": "",
+    "lat": 44.5374611,
+    "lon": 18.6734688,
+    "freq": 438650000,
+    "mode": "nfm",
+    "status": "On-air",
+    "updated": "2023-11-19",
+    "comment": ""
+  },
+  {
+    "name": "SR9TM",
+    "lat": 49.782306,
+    "lon": 20.022833,
+    "freq": 438512500,
+    "mode": "dstar",
+    "status": "On-air",
+    "updated": "2024-01-04",
+    "comment": ""
+  },
+  {
+    "name": "SR9VJP",
+    "lat": 49.36358,
+    "lon": 20.95336,
+    "freq": 438587500,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2024-01-04",
+    "comment": ""
+  },
+  {
+    "name": "YU0DBC",
+    "lat": 44.816367,
+    "lon": 20.459658,
+    "freq": 438225000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2024-02-14",
+    "comment": "RU658"
+  },
+  {
+    "name": "YU0DBG",
+    "lat": 44.695804,
+    "lon": 20.514416,
+    "freq": 438550000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2024-02-16",
+    "comment": "RU684"
+  },
+  {
+    "name": "YU0DCR",
+    "lat": 44.602918,
+    "lon": 19.49406,
+    "freq": 438275000,
+    "mode": "dmr",
+    "status": "On-air",
+    "updated": "2024-02-16",
+    "comment": "RU662"
+  }
+]
