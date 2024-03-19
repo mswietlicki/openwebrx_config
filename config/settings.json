@@ -53,6 +53,15 @@
             "name": "RTL-SDR",
             "type": "rtl_sdr",
             "profiles": {
+                "pmr": {
+                    "name": "PMR",
+                    "rf_gain": "auto",
+                    "center_freq": 446093750,
+                    "samp_rate": 250000,
+                    "start_freq": 446006250,
+                    "start_mod": "nfm",
+                    "tuning_step": 1
+                },
                 "70cm": {
                     "name": "70cm Repeaters",
                     "center_freq": 438800000,
@@ -60,51 +69,88 @@
                     "samp_rate": 2400000,
                     "start_freq": 439275000,
                     "start_mod": "nfm",
-                    "tuning_step": 1000,
-                    "waterfall_auto_level_default_mode": true
+                    "tuning_step": 1000
                 },
                 "2m": {
                     "name": "2m",
                     "center_freq": 145000000,
-                    "rf_gain": 29,
+                    "rf_gain": "auto",
                     "samp_rate": 2048000,
                     "start_freq": 145725000,
                     "start_mod": "nfm",
-                    "tuning_step": "1000"
+                    "tuning_step": 1000
                 },
-                "544cb52a-416e-4805-bc8c-85830e0077b4": {
+                "6m": {
+                    "name": "6m",
+                    "center_freq": 51000000,
+                    "rf_gain": "auto",
+                    "samp_rate": 2400000,
+                    "start_freq": 51510000,
+                    "start_mod": "nfm",
+                    "tuning_step": 1000
+                },
+                "10m": {
+                    "name": "10m",
+                    "center_freq": 29000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 29000000,
+                    "start_mod": "usb",
+                    "tuning_step": 100
+                },
+                "12m": {
+                    "name": "12m",
+                    "center_freq": 24900000,
+                    "samp_rate": 250000,
+                    "start_freq": 24,
+                    "start_mod": "usb",
+                    "tuning_step": 100
+                },
+                "15m": {
+                    "name": "15m",
+                    "center_freq": 21225000,
+                    "samp_rate": 1024000,
+                    "start_freq": 21,
+                    "start_mod": "usb",
+                    "tuning_step": 100
+                },
+                "17m": {
+                    "name": "17m",
+                    "center_freq": 18100000,
+                    "samp_rate": 250000,
+                    "start_freq": 18068000,
+                    "start_mod": "usb",
+                    "tuning_step": 100
+                },
+                "20m": {
                     "name": "20m",
                     "center_freq": 14150000,
                     "samp_rate": 900001,
                     "start_freq": 14070000,
                     "start_mod": "usb",
-                    "tuning_step": 100,
-                    "waterfall_auto_level_default_mode": true
+                    "tuning_step": 100
                 },
-                "fc294c84-910f-4de5-b951-15bc1cb2ac50": {
+                "30m": {
                     "name": "30m",
                     "center_freq": 10125000,
                     "samp_rate": 250000,
                     "start_freq": 10142000,
                     "start_mod": "usb",
-                    "tuning_step": 100,
-                    "waterfall_auto_level_default_mode": true
+                    "tuning_step": 100
                 },
-                "dc264caf-a17e-443c-acad-792dc4b2efd4": {
+                "40m": {
                     "name": "40m",
                     "center_freq": 7100000,
                     "samp_rate": 250000,
                     "start_freq": 7070000,
                     "start_mod": "lsb",
                     "tuning_step": 100,
-                    "waterfall_auto_level_default_mode": true,
                     "rf_gain": "auto",
                     "waterfall_levels": {
                         "min": -54.0,
                         "max": -4.0
                     }
                 },
-                "e2cc256c-aa6c-4ca8-a26d-245fc5bae532": {
+                "80m": {
                     "name": "80m",
                     "center_freq": 3650000,
                     "samp_rate": 900001,
@@ -117,54 +163,13 @@
                         "max": -4.0
                     }
                 },
-                "d7414467-3c6b-4e01-8674-47fd20245729": {
+                "air_band": {
                     "name": "AirBand",
                     "center_freq": 122500000,
                     "samp_rate": 3200000,
                     "start_freq": 120450000,
                     "start_mod": "am",
                     "tuning_step": 100
-                },
-                "3b4679f4-ac40-4ed2-ac05-14cadaa6aeee": {
-                    "name": "10m",
-                    "center_freq": 29000000,
-                    "samp_rate": 2048000,
-                    "start_freq": 29000000,
-                    "start_mod": "usb",
-                    "tuning_step": 100
-                },
-                "3cb450fd-ce8b-40a4-9bc9-c8eb83f924f1": {
-                    "name": "12m",
-                    "center_freq": 24900000,
-                    "samp_rate": 250000,
-                    "start_freq": 24,
-                    "start_mod": "usb",
-                    "tuning_step": 100
-                },
-                "ceaa59d4-2443-4faf-bf43-bcdcdab29a67": {
-                    "name": "15m",
-                    "center_freq": 21225000,
-                    "samp_rate": 1024000,
-                    "start_freq": 21,
-                    "start_mod": "usb",
-                    "tuning_step": 100
-                },
-                "60be820d-f722-4d97-be06-9d4cdbbbe9d0": {
-                    "name": "17m",
-                    "center_freq": 18100000,
-                    "samp_rate": 250000,
-                    "start_freq": 18068000,
-                    "start_mod": "usb",
-                    "tuning_step": 100
-                },
-                "885f024e-3d56-40dd-b3a8-117a8f3b2117": {
-                    "name": "PMR",
-                    "rf_gain": "auto",
-                    "center_freq": 446093750,
-                    "samp_rate": 250000,
-                    "start_freq": 446006250,
-                    "start_mod": "nfm",
-                    "tuning_step": 1
                 }
             },
             "waterfall_auto_level_default_mode": true,
