@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Install CodecServer and SoftMBE for D-STAR decoding
+# Based on https://github.com/knatterfunker/codecserver-softmbe
+
 cd /home/pi
 
 sudo apt install -y git-core debhelper cmake libprotobuf-dev protobuf-compiler libcodecserver-dev
