@@ -60,7 +60,7 @@
                     "samp_rate": 250000,
                     "start_freq": 446006250,
                     "start_mod": "nfm",
-                    "tuning_step": 1
+                    "tuning_step": 12500
                 },
                 "70cm": {
                     "name": "70cm Repeaters",
